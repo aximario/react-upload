@@ -1,0 +1,8 @@
+src/
+.gitignore
+.npmrc
+index.html
+tsconfig.json
+tsconfig.prod.json
+webpack.config.js
+node_modules/
